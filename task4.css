@@ -65,7 +65,7 @@ button {
 
 .hero {
     height: 981px;
-    background: url(../images/hero.png);
+    background: url(images/hero.png);
     background-size: cover;
     display: flex;
     align-items: end;
@@ -385,6 +385,7 @@ opacity: 0.5;
 
 .card-date-day {
     font-size: 20px;
+
 
 
 }
