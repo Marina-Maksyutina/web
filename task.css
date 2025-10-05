@@ -60,7 +60,7 @@ button {
 
 .hero {
     height: 981px;
-    background: url(images/street1.png);
+    background: url(images/street1.PNG);
     background-size: cover;
     display: flex;
     align-items: end;
@@ -413,3 +413,4 @@ footer {
 
 
 }
+
